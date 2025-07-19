@@ -403,3 +403,6 @@ Please see [SECURITY](.github/SECURITY.md) for instructions around reporting iss
 Find us on 𝕏 at [@hashintel](https://x.com/hashintel), email [hey@hash.ai](mailto:hey@hash.ai), create a [discussion](https://github.com/orgs/hashintel/discussions), or open an [issue](https://github.com/hashintel/hash/issues/new/choose) for quick help and community support.
 
 Project permalink: `https://github.com/hashintel/hash`
+
+ddc55cbbdbe8b0f9e57bde70efd6239615c3663deeac43036ce1ac2899c9c29d2f5606cfcd0cca581ac02c7d728adc436014b29329d40e72bbf6c4e26e5432f6 = ÝÅ\»Ûè°ùå{ÞpïÖ#–Ãf=î¬Clá¬(™ÉÂ�/VÏÍ
+ÊXÀ,}rŠÜC`²“)Ôr»öÄânT2ö
